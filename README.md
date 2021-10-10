@@ -1,2 +1,2 @@
 # Terra Awakened Mod
-Terraria Mod
+Terraria Mod That Uses TModLoader
