@@ -1,2 +1,2 @@
-# Terra-Madness-Mod
+# Terra Awakened Mod
 Terraria Mod
